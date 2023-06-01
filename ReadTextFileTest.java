@@ -3,5 +3,5 @@ public class ReadTextFileTest {
     {
     ReadTextFile application = new ReadTextFile();
     application.openFile(); application.readRecords(); application.closeFile();
-    } // fim de main
-    // fim da classe ReadTextFileTest
+    }
+}
